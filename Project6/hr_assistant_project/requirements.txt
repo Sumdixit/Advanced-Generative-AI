@@ -1,0 +1,9 @@
+# Python 3.10+ recommended
+openai>=1.42.0
+tiktoken>=0.7.0
+chromadb>=0.5.3
+pypdf>=5.0.0
+gradio>=4.44.0
+uvicorn>=0.30.0
+fastapi>=0.115.0
+numpy>=1.26.0
